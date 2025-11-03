@@ -1,6 +1,6 @@
 # GESTURE CONTROL
 
-# For Task-1
+# For Part-1
 
 # Real-Time Hand Gesture Control UI
 
@@ -50,7 +50,7 @@ Make sure you have Python 3 installed. You will need the following libraries:
 Simply execute the `main.py` script from your terminal:
 
 
-# For Task-2
+# For Part-2
 
 # Gesture Control for Your Computer
 
